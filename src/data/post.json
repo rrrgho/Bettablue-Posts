@@ -1,0 +1,390 @@
+{
+  "error": false,
+  "message": "Success get Posts data",
+  "data": [
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=1",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=1"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=2",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=2"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=3",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=3"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=4",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=4"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=5",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=5"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=6",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=6"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=7",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=7"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=8",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=8"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=9",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=9"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=10",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=10"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=11",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=11"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=12",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=12"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=13",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=13"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=14",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=14"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=15",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=15"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=16",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=16"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=17",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=17"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=18",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=18"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=19",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=19"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=20",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=20"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=21",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=21"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=22",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=22"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=23",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=23"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=24",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=24"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=25",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=25"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=26",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=26"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=27",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=27"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=28",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=28"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=29",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=29"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=30",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=30"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=31",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=31"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=32",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=32"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=33",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=33"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=34",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=34"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=35",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=35"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=36",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=36"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=37",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=37"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=38",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=38"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=39",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=39"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=40",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=40"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=41",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=41"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=42",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=42"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=43",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=43"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=44",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=44"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=45",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=45"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=46",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=46"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=47",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=47"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet",
+      "creator": "John Doe",
+      "data": "August 18, 2022",
+      "image": "https://source.unsplash.com/random/500x600?sig=48",
+      "avatar": "https://source.unsplash.com/random/100x100?sig=48"
+    }
+  ]
+}
